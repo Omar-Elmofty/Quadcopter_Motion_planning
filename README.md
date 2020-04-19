@@ -7,10 +7,11 @@ report and demonstration video:[Motion Planning for Quadcopter Flying though nar
 Python convex optimization library [CVXOPT](https://cvxopt.org/)
 
 ## Implementation Example
-Running the motion planner
+To run the motion planner use the following command
+
 `$ python main --max_iter 1000 --optim_type 'constrained' --steer_order 1`
 
-The environment including obstacle locations are defined in environment.py
+To change obstacle shapes and locations edit environment.py
 
 ## Acknowledgments 
 
