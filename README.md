@@ -9,7 +9,7 @@ Python convex optimization library [CVXOPT](https://cvxopt.org/)
 ## Implementation Example
 To run the motion planner use the following command
 
-`$ python main --max_iter 1000 --optim_type 'constrained' --steer_order 1`
+`$ python main.py --max_iter 1000 --optim_type 'constrained' --steer_order 1`
 
 To change obstacle shapes and locations edit environment.py
 
