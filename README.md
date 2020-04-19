@@ -16,6 +16,7 @@ To change obstacle shapes and locations edit environment.py
 ## Acknowledgments 
 
 Course material from UTIAS AER1516 - Motion Planning for Robotics
+    
 Course material and drone simulator from UTIAS AER1217 - Autonomous UAS course 
 
 Full references list can be found in the final [report](https://drive.google.com/open?id=1OiX6Z48XeYNF04TpmMopRAOPYLLoRYya)
